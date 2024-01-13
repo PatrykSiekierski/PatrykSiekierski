@@ -6,11 +6,14 @@
 
 ###
 
-<p align="left">I'm IT Student from Poland<br>
+<p align="left">I'm Computer Science student from Poland<br>
 I enjoy learning new programming languages and exploring various branches,<br>
-but I try to focus on two main areas: Web Development and Java (potentially with eye for Kotlin).<br>
-As a hobby I, create minecraft Plugins upon requested.
-<br><br>- 🔭 I'm a computer science student<br>- 📚 I'm currently learning Java as hobby and web development as potential future job.<br>- ⚡ In my free time I like doing plugins for minecraft.</p>
+but I try to focus on two main areas: Web Development and Java (potentially with Kotlin in mind).<br>
+As a hobby I, create minecraft Plugins upon request (feel free to ask for one).
+<br><br>
+  - 🔭 I'm a computer science student<br>
+  - 📚 I'm currently learning Java as hobby and web development as potential future job.<br>
+  - ⚡ In my free time I like doing plugins for minecraft.</p>
 
 ###
 
