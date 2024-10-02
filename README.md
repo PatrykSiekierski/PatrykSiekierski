@@ -3,7 +3,7 @@
 
 - 💻 I'm now working on: **dormitories help desk website**
 
-- 🌱 In my next project i will learn: **backend technologies (mostly spring)**
+- 🤔 In the project above I will learn: **backend technologies (mostly spring)**
 
 - 👯 I’m looking to collaborate on: **any project that is interesting and broading my horizons and skillset**
 
