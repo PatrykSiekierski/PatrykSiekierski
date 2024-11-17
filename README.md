@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Patryk</h1>
 <h3 align="center">Software developer from Poland</h3>
 
-- 💻 I'm now working on: **dormitories help desk website**
+- 🧑‍💻 I’m currently working on **Credo-Maze** (University project)
 
 - 🤔 In the project above I will learn: **backend technologies (mostly spring)**
 
